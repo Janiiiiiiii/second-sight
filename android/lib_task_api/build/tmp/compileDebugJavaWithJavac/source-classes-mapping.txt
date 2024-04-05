@@ -1,0 +1,7 @@
+com/jani02/harsheet/project/SmartCam/tflite/Detector.java
+ com.jani02.harsheet.project.SmartCam.tflite.Detector
+ com.jani02.harsheet.project.SmartCam.tflite.Detector$Recognition
+com/jani02/harsheet/project/SmartCam/tflite/TFLiteObjectDetectionAPIModel.java
+ com.jani02.harsheet.project.SmartCam.tflite.TFLiteObjectDetectionAPIModel
+org/tensorflow/lite/project/SmartCam/tflite/BuildConfig.java
+ org.tensorflow.lite.project.SmartCam.tflite.BuildConfig
